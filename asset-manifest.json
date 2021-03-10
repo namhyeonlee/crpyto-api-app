@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/crpyto-api-app/static/css/main.33c5e5f6.chunk.css",
+    "main.js": "/github.io/crpyto-api-app/static/js/main.e7c35e37.chunk.js",
+    "main.js.map": "/github.io/crpyto-api-app/static/js/main.e7c35e37.chunk.js.map",
+    "runtime-main.js": "/github.io/crpyto-api-app/static/js/runtime-main.318eb0ab.js",
+    "runtime-main.js.map": "/github.io/crpyto-api-app/static/js/runtime-main.318eb0ab.js.map",
+    "static/js/2.e2df0592.chunk.js": "/github.io/crpyto-api-app/static/js/2.e2df0592.chunk.js",
+    "static/js/2.e2df0592.chunk.js.map": "/github.io/crpyto-api-app/static/js/2.e2df0592.chunk.js.map",
+    "index.html": "/github.io/crpyto-api-app/index.html",
+    "static/css/main.33c5e5f6.chunk.css.map": "/github.io/crpyto-api-app/static/css/main.33c5e5f6.chunk.css.map",
+    "static/js/2.e2df0592.chunk.js.LICENSE.txt": "/github.io/crpyto-api-app/static/js/2.e2df0592.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.318eb0ab.js",
+    "static/js/2.e2df0592.chunk.js",
+    "static/css/main.33c5e5f6.chunk.css",
+    "static/js/main.e7c35e37.chunk.js"
+  ]
+}
